@@ -2,94 +2,47 @@
 
 ### 🚀 Tech Leader | Millennium Fellow | Agrotech Entrepreneur
 - 🎓 **B.Sc. Computer Science** | Final Year (400L) @ National Open University of Nigeria (NOUN)
-- 🌐 **B.Sc. Computer Science** | University of the People (UoPeople) - Global Scholar
+- 🌐 **B.Sc. Computer Science** | University of the People (UoPeople) - Global Scholar (15 CUs)
 - 🌍 **Millennium Fellow '26** | Aspiring Campus Director & Social Impact Leader
-- 🚜 **Founder @ Agrotech Grinds** | Revolutionizing agriculture through technical innovation
+- 🚜 **Founder @ Agrotech Grinds** | Driving Agricultural Innovation via Technical Solutions
 
 ---
 
 ### 🏛️ Leadership & Social Impact
 **[The Millennium Fellowship](https://www.millenniumfellowship.org/)**
-*Advancing the United Nations Sustainable Development Goals (SDGs).*
+*Advancing the UN Sustainable Development Goals (SDGs) through student leadership.*
 - **Role:** Campus Leadership Candidate.
-- **Focus:** Leveraging technology to solve local infrastructure and community challenges.
-- **Goal:** Driving social impact through data-backed decision-making.
+- **Project:** Leveraging data and technology to solve community infrastructure challenges.
 
 ---
 
 ### 🚜 Entrepreneurship: Agrotech Grinds
-*Where Agriculture meets High-Tech Efficiency.*
-- Developing digital solutions for agricultural productivity and supply chain transparency.
-- Focused on bridging the gap between small-scale farming and modern data tools.
+*Modernizing the Agricultural supply chain with Data & Tech.*
+- Implementing digital tools to increase productivity for small-scale farmers.
+- Exploring the intersection of Agrotech and **Agentic AI** for smarter farming decisions.
 
 ---
 
 ### 📊 Featured Project: Data Storytelling
 **[Lagos vs. The World: Tourism Competitiveness]**
-- A comparative analysis of global tourism infrastructure.
-- **Outcome:** Selection entry for the Statisense Affiliate Data Analyst Program.
+- A data-driven comparative analysis of global tourism hubs.
+- **Outcome:** Official selection entry for the Statisense Affiliate Data Analyst Program.
 - [🔗 View the Analysis on X](https://x.com/princeoigogae/status/1790382404097487103)
 
 ---
 
 ### 🛠️ Technical Skill Set
 - **Cloud:** AWS (Certified Engineer track)
-- **Programming:** Python (Data Analysis), Java, C++
-- **Specialties:** Agentic AI, Data Visualization, Entrepreneurial Strategy
+- **AI/ML:** Agentic AI implementation & Data Analytics
+- **Programming:** Python, Java, C++
 
 ---
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/eoigoga](https://www.linkedin.com/in/eoigoga)
+- **YouTube:** [@oigogaemmanuel](https://www.youtube.com/@oigogaemmanuel)
 - **Email:** [eoigoga@gmail.com](mailto:eoigoga@gmail.com)
 - **X (Twitter):** [@princeoigogae](https://x.com/princeoigogae)
-# Hi there, I'm Emmanuel Oigoga 👋 
 
-### 🚀 Tech Leader | Millennium Fellow | Agrotech Entrepreneur
-- 🎓 **B.Sc. Computer Science** | Final Year (400L) @ National Open University of Nigeria (NOUN)
-- 🌐 **B.Sc. Computer Science** | University of the People (UoPeople) - Global Scholar
-- 🌍 **Millennium Fellow '26** | Aspiring Campus Director & Social Impact Leader
-- 🚜 **Founder @ Agrotech Grinds** | Revolutionizing agriculture through technical innovation
-
----
-
-### 🏛️ Leadership & Social Impact
-**[The Millennium Fellowship](https://www.millenniumfellowship.org/)**
-*Advancing the United Nations Sustainable Development Goals (SDGs).*
-- **Role:** Campus Leadership Candidate.
-- **Focus:** Leveraging technology to solve local infrastructure and community challenges.
-- **Goal:** Driving social impact through data-backed decision-making.
-
----
-
-### 🚜 Entrepreneurship: Agrotech Grinds
-*Where Agriculture meets High-Tech Efficiency.*
-- Developing digital solutions for agricultural productivity and supply chain transparency.
-- Focused on bridging the gap between small-scale farming and modern data tools.
-
----
-
-### 📊 Featured Project: Data Storytelling
-**[Lagos vs. The World: Tourism Competitiveness]**
-- A comparative analysis of global tourism infrastructure.
-- **Outcome:** Selection entry for the Statisense Affiliate Data Analyst Program.
-- [🔗 View the Analysis on X](https://x.com/princeoigogae/status/1790382404097487103)
-
----
-
-### 🛠️ Technical Skill Set
-- **Cloud:** AWS (Certified Engineer track)
-- **Programming:** Python (Data Analysis), Java, C++
-- **Specialties:** Agentic AI, Data Visualization, Entrepreneurial Strategy
-
----
-
-### 📫 Connect with me:
-- **Email:** eoigoga@gmail.com
-- **X (Twitter):** [@princeoigogae](https://x.com/princeoigogae)
-- **LinkedIn:** [Emmanuel Oigoga](https://www.linkedin.com/in/emmanuel-oigoga/)
-
----
-*"Building the intersection of code, community, and commerce."*
 ---
 *"Building the intersection of code, community, and commerce."*
