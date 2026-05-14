@@ -40,9 +40,9 @@
 ---
 
 ### 📫 Connect with me:
-- **Email:** eoigoga@gmail.com
+- **LinkedIn:** [linkedin.com/in/eoigoga](https://www.linkedin.com/in/eoigoga)
+- **Email:** [eoigoga@gmail.com](mailto:eoigoga@gmail.com)
 - **X (Twitter):** [@princeoigogae](https://x.com/princeoigogae)
-- **LinkedIn:** [Emmanuel Oigoga](
 # Hi there, I'm Emmanuel Oigoga 👋 
 
 ### 🚀 Tech Leader | Millennium Fellow | Agrotech Entrepreneur
